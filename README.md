@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/mewertd2/Blades.jl.svg?branch=master)](https://travis-ci.com/mewertd2/Blades.jl)
+[![codecov.io](https://codecov.io/github/mewertd2/Blades.jl/coverage.svg?branch=master)](https://codecov.io/github/mewertd2/Blades.jl?branch=master)
+
 # KForms
 
 The `KForms` [Julia](http://julialang.org) package defines differential operators `𝑑, δ, Δ` and `apply` methods for continous [k-forms](https://en.wikipedia.org/wiki/Exterior_derivative).  
