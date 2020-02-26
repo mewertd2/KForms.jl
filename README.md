@@ -23,7 +23,7 @@ Together with a couple more axioms this defines `𝑑` [in terms of axioms](http
 Utilizing the most trivial bijection between 1-blades and coordinate differentials, KVectors can be used to apply the Exterior Derivative to any k-form [in terms of local coordinates](https://en.wikipedia.org/wiki/Exterior_derivative#In_terms_of_local_coordinates)
 
 ## KVectors
-Most of the heavy lifting is done by the [Blades](../Blades.jl) and [KVectors](../KVectors.jl) packages.  This is a Geometric Algebra flavoured implementation of k-forms.
+Most of the heavy lifting is done by the [Blades](https://github.com/mewertd2/Blades.jl) and [KVectors](https://github.com/mewertd2/KVectors.jl) packages.  This is a Geometric Algebra flavoured implementation of k-forms.
 
 ## Examples
 Easier to demonstrate with some code than mathematical word salad.
